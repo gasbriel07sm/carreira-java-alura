@@ -1,4 +1,4 @@
-package primeira_aplicacao;
+package primeira_aplicacao.primeiro_programa_java;
 
 public class PrimeiraClasse {
     public static void main(String[] args) {
