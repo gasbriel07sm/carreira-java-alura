@@ -1,0 +1,20 @@
+package praticando_heranca_polimorfismo_interface.Exercicio05;
+
+public class Pagamento {
+
+    private double valor;
+
+    public Pagamento(double valor) {
+        this.valor = valor;
+    }
+
+    public double getValor() {
+        return valor;
+    }
+
+    public void setValor(double valor) {
+        this.valor = valor;
+    }
+
+    public void confirmarPagamento() {}
+}
